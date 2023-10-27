@@ -1,0 +1,18 @@
+[1mdiff --git a/app.js b/app.js[m
+[1mindex 9bbce99..1253a77 100644[m
+[1m--- a/app.js[m
+[1m+++ b/app.js[m
+[36m@@ -1 +1 @@[m
+[31m-// add new feature button[m
+\ No newline at end of file[m
+[32m+[m[32m// add new feature form[m
+\ No newline at end of file[m
+[1mdiff --git a/app1.js b/app1.js[m
+[1mindex b9b59e9..36d6ff9 100644[m
+[1m--- a/app1.js[m
+[1m+++ b/app1.js[m
+[36m@@ -1 +1 @@[m
+[31m-// add app1 js[m
+\ No newline at end of file[m
+[32m+[m[32m// add app1 js new feature button[m
+\ No newline at end of file[m
